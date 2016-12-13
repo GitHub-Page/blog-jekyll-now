@@ -6,8 +6,7 @@
 name: MMizogaki Engineer Note
 
 # Short bio or description (displayed in the header)
-description: He is a freelance engineer.I am good at developing applications for iOS and Android.I also have experience of director, lead engineer and teacher.Now I will work on SDK development mainly.
-
+description: He is a freelance engineer.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/11548811?v=3&s=460
 
@@ -19,10 +18,10 @@ avatar: https://avatars1.githubusercontent.com/u/11548811?v=3&s=460
 footer-links:
   dribbble:
   email:m.mizogaki.github@gmail.com
-  facebook:https://www.facebook.com/voice.hito
+  facebook:voice.hito
   flickr:
   github: barryclark/jekyll-now
-  instagram:https://www.instagram.com/mmizogaki/
+  instagram:mmizogaki/
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
