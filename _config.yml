@@ -17,11 +17,11 @@ avatar: https://github.com/GitHubPage-MMizogaki/GitHubPage-MMizogaki.github.io/b
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:m.mizogaki.github@gmail.com
-  facebook:voice.hito
+  email: m.mizogaki.github@gmail.com
+  facebook: voice.hito
   flickr:
   github: barryclark/jekyll-now
-  instagram:mmizogaki/
+  instagram: mmizogaki/
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
