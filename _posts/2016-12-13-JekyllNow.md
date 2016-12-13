@@ -13,33 +13,33 @@ Static-Site-Generatorsについて<br>
 [https://staticsitegenerators.net/](https://staticsitegenerators.net/)
 
 
-## <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>｜Ruby
+### <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>｜Ruby
 
-### メリット
+メリット
 * Github Star数No1
 * JekyllNowが超簡単
 
-### デメリット
+デメリット
 * Rubyですけど.....
 
-## <a href="http://gohugo.io/" target="_blank">Hugo</a>｜Go
+### <a href="http://gohugo.io/" target="_blank">Hugo</a>｜Go
 
-### メリット
+メリット
 * 記事生成が早い
 * Github Star数No2
 * 必要ファイルが少なく構造がシンプル
 * Goで開発されてます。
 
-### デメリット
+デメリット
 * 自分でやらないといけないことが多い
 
-## <a href="http://hexo.io/" target="_blank">Hexo</a>｜node.js
+### <a href="http://hexo.io/" target="_blank">Hexo</a>｜node.js
 
-### メリット
+メリット
 * 全てJavaScriptで完結
 * Node製の中では最も人気が高い
 * ブログ生成に特化している
 * generateが早い
 
-### デメリット
+デメリット
 * Sitemapをつくる必要がある
