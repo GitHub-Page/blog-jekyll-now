@@ -4,7 +4,7 @@ title: Create Blog JekyllNow
 tags: jekyll github JekyllNow Hexo Hugo Blog
 ---
 
-Static-Site-Generators<br>
+###Static-Site-Generators
 GitHubPageでBlog運用したくて色々調べると.......<br>
 静的サイトジェネレーターが色々ある！<br>
 とりあえずまとめました─=≡Σ((( つ•̀ω•́)つ<br>
