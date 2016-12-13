@@ -1,0 +1,6 @@
+Introduction<br>
+[Electron](http://electron.atom.io/)について調べた<br>
+Electron(旧称: Atom-Shell)は, Atomエディタを開発するために生まれたクロスプラットフォームデスクトップアプリケーションエンジンです.
+Node.js + Chromiumをランタイムとしており, Atomだけでなく, [Slack](https://slack.com/)や先日のBuildで発表されて話題となった[VisualStudio Code](https://code.visualstudio.com/)もElectronで実装されています.
+いわゆるWeb系の技術, Node.js + HTML + CSSでアプリケーションを作成できるのが特徴です.
+類似した思想のフレームワークとして, [node-webkit(NW.js)](http://nwjs.io/)もありますが, アプリケーションのエントリポイントの考え方等が異なります.
