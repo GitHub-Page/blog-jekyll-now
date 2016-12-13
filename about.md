@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am freelance engineer.
+I am good at developing applications for iOS and Android.
+I also have experience of director, lead engineer and teacher.
+Now I will work on SDK development mainly.
 
-### More Information
+### Portfolio
 
-A place to include any other types of information that you'd like to include about yourself.
+http://githubpage-mmizogaki.github.io/
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[m.mizogaki.github@gmail.com](mailto:m.mizogaki.github@gmail.com)
