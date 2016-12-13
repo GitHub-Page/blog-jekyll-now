@@ -3,13 +3,16 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: MMizogaki Engineer Note
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: He is a freelance engineer.
+I am good at developing applications for iOS and Android.
+I also have experience of director, lead engineer and teacher.
+Now I will work on SDK development mainly.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars1.githubusercontent.com/u/11548811?v=3&s=460
 
 #
 # Flags below are optional
@@ -18,11 +21,11 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email:m.mizogaki.github@gmail.com
+  facebook:https://www.facebook.com/voice.hito
   flickr:
   github: barryclark/jekyll-now
-  instagram:
+  instagram:https://www.instagram.com/mmizogaki/
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
@@ -41,7 +44,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url:http://githubpage-mmizogaki.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
