@@ -12,14 +12,16 @@ Node.js + Chromiumをランタイムとしており, Atomだけでなく, [Slack
 
 今回はElectronで開発されたVideoPlayer機能のRepositoryをまとめる
 
-* Electron Video<br>
-http://qiita.com/takeyuichi/items/12865a36127ed3d8a7e8
+
+* Electron Video　shokushu　<br>
+[https://github.com/y-takey/shokushu](https://github.com/y-takey/shokushu)
 
 * Playback<br>
-https://mafintosh.github.io/playback/
+[https://mafintosh.github.io/playback/](https://mafintosh.github.io/playback/)
 
 * Electron Video<br>
-https://github.com/RIAEvangelist/electron-video-player
+[https://github.com/RIAEvangelist/electron-video-player](https://github.com/RIAEvangelist/electron-video-player)
 
 * webtorrent-desktop<br>
-https://github.com/feross/webtorrent-desktop
+[https://github.com/feross/webtorrent-desktop](https://github.com/feross/webtorrent-desktop)
+
