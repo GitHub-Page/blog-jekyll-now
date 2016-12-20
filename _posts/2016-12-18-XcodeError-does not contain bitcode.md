@@ -12,10 +12,6 @@ ld: '/Users/***/***/***/Fabric.framework/Fabric(FABObfuscator.o)' does not conta
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 ```
 
-bitcodeオプションについては、以下の記事で解説されています。
-◆ LLVM bitcode基礎知識
-http://qiita.com/gamako/items/f37dbb05de9d3832ce6b
-
 ## ENABLE_BITCODEをNOにする
 
 「Build Settings」から「Enable Bitcode」の項目を検索し、NOにしましょう。
