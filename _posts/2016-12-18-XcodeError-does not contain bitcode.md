@@ -1,3 +1,10 @@
+---
+layout: post
+title: Xcode Error Does not contain bitcode
+tags: Xcode8 Error ENABLE_BITCODE disable bitcode for this target. for architecture arm64
+---
+
+
 Xcode　does not contain bitcode！
 
 ```
