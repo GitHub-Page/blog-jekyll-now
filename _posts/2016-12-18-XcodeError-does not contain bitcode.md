@@ -20,5 +20,3 @@ http://qiita.com/gamako/items/f37dbb05de9d3832ce6b
 
 「Build Settings」から「Enable Bitcode」の項目を検索し、NOにしましょう。
 基本的にはこれでビルドが通るはずです。
-
-![Alt Text](https://github.com/MMizogaki/blog-jekyll-now/blob/master/Resouce/2016-12-20-ENABLE_BITCODE.png) 
