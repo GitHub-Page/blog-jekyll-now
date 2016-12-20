@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: MMizogaki Engineer Note
+name: MMizogaki Enginer Note
 
 # Short bio or description (displayed in the header)
 description: Freelance Engineer.
@@ -18,12 +18,12 @@ avatar: https://github.com/GitHubPage-MMizogaki/GitHubPage-MMizogaki.github.io/b
 footer-links:
   dribbble:
   email: m.mizogaki.github@gmail.com
-  facebook:
+  facebook: VoiceHito
   flickr:
   github: MMizogaki
-  instagram:
-  linkedin:
-  pinterest:
+  instagram: mmizogaki
+  linkedin: masahito-mizogaki
+  pinterest: VoiceHito
   rss: # just type anything here for a working RSS icon
   twitter: 
   stackoverflow: MMizogaki
